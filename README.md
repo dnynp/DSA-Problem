@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dnynp/DSA-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/dnynp/DSA-Problem/tree/master/0048-rotate-image) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dnynp/DSA-Problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/dnynp/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/dnynp/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/dnynp/DSA-Problem/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/dnynp/DSA-Problem/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
