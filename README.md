@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dnynp/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/dnynp/DSA-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/dnynp/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0724-find-pivot-index](https://github.com/dnynp/DSA-Problem/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,4 +58,5 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dnynp/DSA-Problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/dnynp/DSA-Problem/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
