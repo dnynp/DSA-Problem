@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/dnynp/DSA-Problem/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/dnynp/DSA-Problem/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
